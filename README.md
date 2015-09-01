@@ -16,3 +16,7 @@ My last project involved Population Ecology and Mark-Release-Recapture for estim
 
 Research fields of interest: Mathematical Biology, Computational Biology, Bioinformatics.
 
+## Links profissionais
+[Lattes](http://lattes.cnpq.br/1771110726925698)
+[Site do prof Felipe Figueiredo](https://sites.google.com/site/proffelipefigueiredo/)
+[Blog do prof Felipe Figueiredo](http://proffelipefigueiredo.blogspot.com/)
