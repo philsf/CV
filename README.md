@@ -23,6 +23,15 @@ My last project involved Population Ecology and Mark-Release-Recapture for estim
 
 Research fields of interest: Mathematical Biology, Computational Biology, Bioinformatics.
 
+## Interesses didáticos
+(do meu site)
+
+Ministrar aulas, disciplinas, cursos e seminários nas áreas de Matemática, Estatística e Modelagem Computacional direcionadas a áreas aplicadas, bem como áreas de Pesquisa Básica.
+
+Capacitado para ministrar aulas de Cálculo Diferencial e Integral, Álgebra Linear, Bioestatística ou Introdução a Estatística, Introdução a Algoritmos e Programação, Cálculo Numérico e simulações de modelos em sistemas de programação em linguagem de alto nível como Perl, R, Matlab e semelhantes (como Octave, Scilab, etc.), entre outros.
+
+Experiência em ministrar aulas para alunos de diversas áreas como Administração, Ciências Biológicas, Farmácia, Ciência da Computação, Engenharia, Economia, etc em nível de graduação ou pós-graduação.
+
 ## Links profissionais
 * [Lattes](http://lattes.cnpq.br/1771110726925698)
 * [Site do prof Felipe Figueiredo](https://sites.google.com/site/proffelipefigueiredo/)
