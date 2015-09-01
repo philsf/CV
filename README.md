@@ -14,7 +14,7 @@ Com formação original em matemática, e doutorado em Biologia Computacional e 
 
 Interesses acadêmicos: aplicar técnicas de modelagem matemática e/ou computacional em projetos científicos nas áreas de Bioinformática, Biologia Computacional e Epidemiologia, e Ecologia de populações.
 
-## Abstract
+## Summary
 (do perfil linkedin)
 
 With a mathematical background I'm interested in projects that try to adapt several mathematical, computational and statistical models to biological problems.
