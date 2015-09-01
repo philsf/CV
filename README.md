@@ -7,6 +7,13 @@ Criar uma identidade profissional sólida e comunicá-la de maneira eficiente
 ## Tagline no Linkedin
 Docente de Matemática Aplicada
 
+## Resumo
+(do site vagas.com.br)
+
+Com formação original em matemática, e doutorado em Biologia Computacional e Sistemas, estou qualificado para ministrar aulas de matemática, estatística e bioinformática. 
+
+Interesses acadêmicos: aplicar técnicas de modelagem matemática e/ou computacional em projetos científicos nas áreas de Bioinformática, Biologia Computacional e Epidemiologia, e Ecologia de populações.
+
 ## Abstract
 (do perfil linkedin)
 
