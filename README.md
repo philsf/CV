@@ -2,7 +2,7 @@
 
 # Objetivo
 
-Criar uma identidade profissional sólida e comunicá-la de maneira eficiente
+Criar uma identidade profissional sólida e comunicá-la de maneira eficiente, indicando a existência de informações complementares. Foco em experiência e interesses, sem supervalorizar a titulação ou formação.
 
 ## Tagline no Linkedin
 Docente de Matemática Aplicada
