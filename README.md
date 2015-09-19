@@ -26,6 +26,9 @@ Research fields of interest: Mathematical Biology, Computational Biology, Bioinf
 ## Lattes (texto padrão)
 Possui graduação em Bacharelado em Matemática pela Universidade Federal do Rio de Janeiro (2004), mestrado em Matemática Aplicada pela Universidade Federal do Rio de Janeiro (2006) e doutorado em Biologia Computacional e de Sistemas pela Fundação Oswaldo Cruz (2012). Atualmente é professor auxiliar i da Universidade Estácio de Sá, professor adjunto do Centro Universitário Anhanguera de Niterói e docente do Instituto Nacional de Traumatologia e Ortopedia. Tem experiência na área de Biologia Geral, com ênfase em Biologia Computacional, atuando principalmente nos seguintes temas: evolução molecular, individual-based model, mrr, filogenética e biologia computacional. 
 
+## Lattes (texto atual)
+Possui graduação em Bacharelado em Matemática pela Universidade Federal do Rio de Janeiro (2004), mestrado em Matemática Aplicada pela Universidade Federal do Rio de Janeiro (2006) e doutorado em Biologia Computacional e de Sistemas pela Fundação Oswaldo Cruz (2012). Tem experiência nas áreas de Biologia Computacional, Bioinformática e Matemática Aplicada atuando principalmente nos seguintes temas relacionados ao controle biológico de doenças transmissíveis: modelagem matemática de dinâmica populacional, modelos de marcação e recaptura (MRR), filogenética, análise de sequências moleculares, evolução molecular e simulação computacional de cenários biológicos para testes de hipóteses e validações de metodologias.
+
 ## Interesses didáticos
 (do meu site)
 
