@@ -1,8 +1,10 @@
-# Repositório para um bom CV
+## Repositório para um bom CV
 
 ### Objetivo desde repositório
 
 Criar uma identidade profissional sólida como docente e comunicá-la de maneira eficiente, indicando a existência de informações complementares. Foco em experiência e interesses, sem supervalorizar a titulação ou formação.
+
+# Resumo profissional
 
 ## Tagline no Linkedin
 Docente de Matemática Aplicada
