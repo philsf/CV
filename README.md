@@ -17,7 +17,7 @@ Com formação acadêmica mista, originada em Matemática Aplicada e concluída 
 
 Tenho experiência docente em disciplinas como Bioestatística e Estatística, Cálculo Diferencial e Integral, Equações Diferenciais, Álgebra Linear, entre outras, tanto em cursos de graduação como pós-graduação.
 
-Tenho experiência acadêmica em Simulações Computacionais, aplicando técnicas de Modelagem Computacional, e na implementação de modelos matemáticos ou estatísticos para problemas de saúde, epidemiologia e ecologia de populações.
+Minha experiência acadêmica inclui Simulações Computacionais, aplicando técnicas de Modelagem Computacional, e na implementação de modelos matemáticos ou estatísticos para problemas de saúde, epidemiologia e ecologia de populações.
 
 Mantenho um site e um blog para divulgar materiais didáticos a meus alunos (e quaisquer interessados) e oferecer pequenas gotas de motivação.
 
