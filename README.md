@@ -23,6 +23,9 @@ My last project involved Population Ecology and Mark-Release-Recapture for estim
 
 Research fields of interest: Mathematical Biology, Computational Biology, Bioinformatics.
 
+## Lattes (texto padrão)
+Possui graduação em Bacharelado em Matemática pela Universidade Federal do Rio de Janeiro (2004), mestrado em Matemática Aplicada pela Universidade Federal do Rio de Janeiro (2006) e doutorado em Biologia Computacional e de Sistemas pela Fundação Oswaldo Cruz (2012). Atualmente é professor auxiliar i da Universidade Estácio de Sá, professor adjunto do Centro Universitário Anhanguera de Niterói e docente do Instituto Nacional de Traumatologia e Ortopedia. Tem experiência na área de Biologia Geral, com ênfase em Biologia Computacional, atuando principalmente nos seguintes temas: evolução molecular, individual-based model, mrr, filogenética e biologia computacional. 
+
 ## Interesses didáticos
 (do meu site)
 
