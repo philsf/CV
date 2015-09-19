@@ -17,6 +17,7 @@ Tenho experiência acadêmica em Simulações Computacionais, aplicando técnica
 Mantenho um site em um blog para divulgar materiais didáticos a meus alunos (e quaisquer interessados) e oferecer pequenas gotas de motivação.
 
 ## Links profissionais
+* [Perfil Linkedin](https://www.linkedin.com/pub/felipe-figueiredo/13/896/979)
 * [Lattes](http://lattes.cnpq.br/1771110726925698)
 * [Site do prof Felipe Figueiredo](https://sites.google.com/site/proffelipefigueiredo/)
 * [Blog do prof Felipe Figueiredo](http://proffelipefigueiredo.blogspot.com/)
