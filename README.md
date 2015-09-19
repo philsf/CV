@@ -10,7 +10,7 @@ Criar uma identidade profissional sólida como docente e comunicá-la de maneira
 Docente de Matemática Aplicada
 
 ## Objetivo profissional
-Motivar os alunos das diversas áreas a aprender técnicas e métodos de Matemática Aplicada, adequando a base teórica a cada área de aplicação, priorizando a teoria necessária para a compreensão de cada tópico.
+Motivar os alunos das diversas áreas a aprender técnicas e métodos de Matemática Aplicada, adequando a teoria a cada área de aplicação, priorizando os requisitos necessários para a compreensão de cada tópico.
 
 ## Resumo
 Com formação acadêmica mista, originada em Matemática Aplicada e concluída em Biologia Computacional, sou qualificado para lecionar nas diversas áreas do Conhecimento que usam métodos de Matemática Aplicada e Computacional, sejam de Exatas ou da Saúde. Com perfil dinâmico e proativo, procuro antecipar as dificuldades dos alunos na preparação de cada aula.
