@@ -13,7 +13,7 @@ Docente de Matemática Aplicada
 Motivar os alunos das diversas áreas a aprender técnicas e métodos de Matemática Aplicada, adequando a teoria a cada área de aplicação, priorizando os requisitos necessários para a compreensão de cada tópico.
 
 ## Resumo
-Com formação acadêmica mista, originada em Matemática Aplicada e concluída em Biologia Computacional, sou qualificado para lecionar nas diversas áreas do Conhecimento que usam métodos de Matemática Aplicada e Computacional, sejam de Exatas ou da Saúde. Com perfil dinâmico e proativo, procuro antecipar as dificuldades dos alunos na preparação de cada aula.
+Com formação acadêmica multidisciplinar, originada em Matemática Aplicada e concluída em Biologia Computacional, sou qualificado para lecionar nas diversas áreas do Conhecimento que usam métodos de Matemática Aplicada e Computacional, sejam de Exatas ou da Saúde. Com perfil dinâmico e proativo, procuro antecipar as dificuldades dos alunos na preparação de cada aula.
 
 Tenho experiência docente em disciplinas como Bioestatística e Estatística, Cálculo Diferencial e Integral, Equações Diferenciais, Álgebra Linear, entre outras, tanto em cursos de graduação como pós-graduação.
 
