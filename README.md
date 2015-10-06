@@ -19,7 +19,7 @@ Tenho experiência docente em disciplinas como Bioestatística e Estatística, C
 
 Minha experiência acadêmica inclui Simulações Computacionais, aplicando técnicas de Modelagem Computacional, e na implementação de modelos matemáticos ou estatísticos em problemas de saúde, epidemiologia e ecologia de populações.
 
-Mantenho um site e um blog para divulgar materiais didáticos a meus alunos (e quaisquer interessados) e oferecer pequenas gotas de motivação.
+Mantenho um site para divulgar materiais didáticos a meus alunos (e quaisquer interessados) e um blog para  oferecer pequenas gotas de motivação.
 
 ## Links profissionais
 * [Perfil Linkedin](https://www.linkedin.com/pub/felipe-figueiredo/13/896/979)
